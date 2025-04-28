@@ -12,7 +12,7 @@ Write a C program to print even numbers ranging from M to N (including M and N v
 7.	Continue the loop until you have iterated through all numbers from M to N.
 
 ## PROGRAM:
-```c
+```
 #include <stdio.h>
 
 int main() {
